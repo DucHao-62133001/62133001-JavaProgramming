@@ -1,2 +1,1 @@
-hello
-abcxyz
+print("Hell No")
